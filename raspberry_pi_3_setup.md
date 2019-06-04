@@ -1,5 +1,5 @@
 # Raspbian Install on Raspberry Pi 3
- References:
+* References:
   * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
 
 ## Prepare micro SD card
